@@ -4,7 +4,7 @@ This is Birgit.
 
 I'm an Engineering Manager. One of those engineers who don't code that much.
 
-The reason is, I have noticed, that many people come together because of their coding skills, but lose their minds, because of lack of communication. Here is were my work starts:
+The reason is, I have noticed, that many people come together because of their coding skills, but lose their minds because of lack of communication. Here is where my work starts:
 
 I enable teams to do, what they are good at. With my background knowledge in software engineering and my people-skills I bring development, business, design and users closer together and I create frictionless working environments.
 
