@@ -15,7 +15,6 @@ I am a strong believer in `honesty`, `transparency`, a `people-first attitude`, 
 
 - 🔭 I’m currently working at [Confio](https://github.com/confio)
 - 🌱 I’m currently learning blockchain and [Cosmwasm](https://github.com/CosmWasm)
-- 👯 I’m collaborating on [Platonic](https://platonictech.com/)
 - 🤔 I’m looking for help with mobile development for [Platonic](https://platonictech.com/)
 - 💬 Ask me about `Leadership`, `Gender Diversity`, `Hiring Diverse`
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/birgitpohl/) and [Twitter](https://twitter.com/devbirgit)
