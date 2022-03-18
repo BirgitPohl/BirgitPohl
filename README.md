@@ -19,4 +19,4 @@ I am a strong believer in `honesty`, `transparency`, a `people-first attitude`, 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/birgitpohl/) and [Twitter](https://twitter.com/devbirgit)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love team sports, such as volleyball and long endurance bicycling, as well as team-e-sports. I was in the top-world 100 in WoW.
-- 📝 My Blog: [I write about diverity, leadership, women in tech and women who lead](https://medium.com/@birgitpohl)
+- 📝 My Blog: [I write about diversity, leadership, women in tech and women who lead](https://medium.com/@birgitpohl)
