@@ -2,7 +2,7 @@
 
 This is Birgit.
 
-I'm an Engineering Manager. One of those engineers who don't code that much.
+I'm an Engineering Manager. One of those engineers who build and debug teams.
 
 The reason is, I have noticed, that many people come together because of their coding skills, but lose their minds because of lack of communication. Here is where my work starts:
 
