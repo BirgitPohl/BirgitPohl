@@ -3,10 +3,11 @@
 This is Birgit.
 
 I'm the creator of Leaders and Makers. I'm one of the engineers who went into engineering leadership and from there to coaching other engineering leaders on how to lead teams.
+I also have a podcast, [Tech Talent Talk](https://www.techtalenttalk.com/) where you can learn about engineering culture and recruitment. We have regularly different guests we invite.
 
 It's my passion to enable you as a professional leader
 
-I enable teams to do, what they are good at. With my background knowledge in software engineering and my people skills I bring development, business, design and users closer together and I create frictionless working environments.
+I enable teams to do, what they are good at. With my background knowledge in software engineering, psychology and my people skills I bring development, business, design and users closer together and I create frictionless working environments.
 
 I am a people- and user-orientated servant leader with more than 8 years of deep technical experience developing, and implementing complex infrastructures, and supporting teams for fast-growing startups and bigger ships such as corporations in various industries. Health tech, Fintech, Social Media, eCommerce and Blockchain.
 
